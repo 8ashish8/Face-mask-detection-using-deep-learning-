@@ -1,1 +1,6 @@
-opencv
+tk
+opencv-python
+numpy
+scikit-learn
+pca
+split-folders
